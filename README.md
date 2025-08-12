@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started:
 
-[![LeticiaFerraz00 GitHub stats]
+[![LeticiaFerraz00 GitHub stats]https://github.com/LeticiaFerraz00/LeticiaFerraz00/tree/main
 
 
 - 🔭 I’m currently working on ...
