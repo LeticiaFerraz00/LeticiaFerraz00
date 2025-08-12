@@ -3,9 +3,11 @@
 <!--
 **LeticiaFerraz00/LeticiaFerraz00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<code><img height= "20"src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
 
 Here are some ideas to get you started:
+
+[![LeticiaFerraz00 GitHub stats]
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
