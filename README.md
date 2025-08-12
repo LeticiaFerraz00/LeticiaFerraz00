@@ -12,6 +12,7 @@ Atualmente, utilizo meus projetos como forma de prática e construção de um po
 
 ## Habilidades
 ✔ HTML e CSS (básico)
+
 ✔ Photoshop (intermediario -edição e criação de imagens)
 
 <div style ="display inline">
