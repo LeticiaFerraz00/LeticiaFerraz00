@@ -20,6 +20,8 @@ Atualmente, utilizo meus projetos como forma de prática e construção de um po
 <img width='50 ' height='50 ' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
 
 
-## Me encontre em outras plataformas
+## Me encontre também em:
 
 <a href="https://www.linkedin.com/in/leticia-ferraz-66936737a/" ><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/LeticiaFerraz00" ><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
+  
