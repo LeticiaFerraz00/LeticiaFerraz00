@@ -1,4 +1,8 @@
-**# Olá, Mundo 👋**
+<div style ="display inline">
+  
+**# Olá, Mundo**  <img width='30 ' height='30 ' src="https://github.com/user-attachments/assets/ec37864f-09ce-4d02-92e9-56b6ff5c6fb9" />
+
+</div>
 
 
 Meu nome é Letícia e atualmente estou ingressando no primeiro semestre de **Ciencia da Computação**.  
