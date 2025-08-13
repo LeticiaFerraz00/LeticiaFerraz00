@@ -1,7 +1,7 @@
 **# Olá, Mundo 👋**
 
 
-Meu nome é Letícia e atualmente estou no primeiro semestre de **Ciencia da Computação**.  
+Meu nome é Letícia e atualmente estou ingressando no primeiro semestre de **Ciencia da Computação**.  
 
 Tenho interesse em aprender e aplicar conhecimentos na área de desenvolvimento web, iniciando meus estudos com HTML, CSS e uso do GitHub para controle de versões e publicação de projetos.
 
@@ -16,8 +16,9 @@ Atualmente, utilizo meus projetos como forma de prática e construção de um po
 ✔ Photoshop (intermediario -edição e criação de imagens)
 
 <div style ="display inline">
+  <img width='50 ' height='50 ' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img width='50 ' height='50 ' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
-<img width='50 ' height='50 ' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+
 
 ## Me encontre em outras plataformas
 
