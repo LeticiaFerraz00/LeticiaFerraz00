@@ -26,7 +26,7 @@ Atualmente, utilizo meus projetos como forma de prática e construção de um po
 
 ## Veja meus projetos aqui: ##
 
-HTML: [Criação de pagina web](https://leticiaferraz00.github.io/criacao-de-pagina-web/)
+HTML: [Criação de pagina web](https://github.com/LeticiaFerraz00/criacao-de-pagina-web)
 
 ## Me encontre também em:
 
