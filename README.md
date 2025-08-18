@@ -24,6 +24,10 @@ Atualmente, utilizo meus projetos como forma de prática e construção de um po
 <img width='50 ' height='50 ' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
 
 
+## Veja meus projetos aqui: ##
+
+HTML: [Criação de pagina web](https://leticiaferraz00.github.io/criacao-de-pagina-web/)
+
 ## Me encontre também em:
 
 <a href="https://www.linkedin.com/in/leticia-ferraz-66936737a/" ><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
