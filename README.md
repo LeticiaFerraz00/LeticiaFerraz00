@@ -5,7 +5,7 @@
 </div>
 
 
-Meu nome é Letícia e atualmente estou ingressando no primeiro semestre de **Ciencia da Computação**.  
+Meu nome é Letícia e atualmente estou ingressando no terceiro semestre de **Ciencia da Computação**.  
 
 Tenho interesse em aprender e aplicar conhecimentos na área de desenvolvimento web, iniciando meus estudos com HTML, CSS e uso do GitHub para controle de versões e publicação de projetos.
 
